@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leandro1210
+- 👋 Hi, I’m Leandro
 - 👀 I’m interested in JS, JAVA and REACT-NATIVE. 
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me rodriguesleandro1210@gmail.com
