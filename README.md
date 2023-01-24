@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leandro
 - 👀 I’m interested in JS, JAVA and REACT-NATIVE. 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me rodriguesleandro1210@gmail.com
 
 <!---
